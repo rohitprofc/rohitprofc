@@ -62,9 +62,9 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 
 ### OS: ❤️ (linux one love)
 
-| Linux | Ubuntu |
-|-------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+| Linux | Ubuntu | Windows |
+|-------|--------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux" alt="Windows" width="55" height="55"/> |
 
 ### Development tools:
 | Git | GitHub | VS Code | Jupyter | Office 365 | Latex | Photoshop | Illustrator |
