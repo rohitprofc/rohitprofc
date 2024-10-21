@@ -113,4 +113,4 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 </p>
 
 ### How to reach me :mailbox:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitprofc/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitprofc/) 
