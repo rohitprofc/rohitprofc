@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohitprofc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### About Me:   
+### About Me:  
 
 I'm a dedicated full stack developer with a strong passion for creating seamless and efficient web applications. My expertise spans both front-end and back-end development, allowing me to build comprehensive and robust solutions. I specialize in modern JavaScript frameworks like React and Angular, and I'm proficient in server-side technologies such as Node.js, Express, and Django.
 
