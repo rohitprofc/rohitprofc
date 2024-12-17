@@ -1,116 +1,139 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohitprofc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">
+  Hi!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm 
+  <a href="https://www.linkedin.com/in/rohitprofc/" target="_blank">Rohit</a>
+</h1>
 
-### About Me:  
-
-I'm a dedicated full stack developer with a strong passion for creating seamless and efficient web applications. My expertise spans both front-end and back-end development, allowing me to build comprehensive and robust solutions. I specialize in modern JavaScript frameworks like React and Angular, and I'm proficient in server-side technologies such as Node.js, Express, and Django.
-
-I thrive on developing scalable and maintainable code, utilizing my solid understanding of database management with both SQL and NoSQL systems. My experience with cloud services like AWS and Azure enables me to deploy and manage applications efficiently.
-  
- 
-### Social media: 📡   
-
-Connect with me on LinkedIn, where I share insights, victories, and the occasional setback. 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitprofc/)
-
-<!-- ## Competitions: 🥇
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|BSidesSF CTF|soon...|movie43|05/24|
-|CIT@CTF|top 6%|undermouses|04/2024|
-|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|vksCTF|top 15%| Solo played |09/2023| -->
-
-
-
-## Working on: 🚀
-
-- Tweaking this README for optimal engagement 
-- [AI Scheduling Appointment App](https://github.com/rohitprofc/ai-appointment-app) 
-- [Virtual Labs Simulator](https://github.com/rohitprofc/virtual-labs)
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| C | C++ | Python | JAVA | HTML | CSS | Sass | JS | PHP | 
-|---|-----|--------|------|------|-----|------|----|-----| 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="C++"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="55" width="55" alt="Sass"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="55" alt="JS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="55" width="55" alt="PHP"/>  |  
-
-  
-
-### Front-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
-
-| React | jQuery | Angular | Bootstrap | Tailwind |
-|-------|--------|---------|-----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery"  alt="jQuery" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|
-
-### Back-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
-
-| Express | Flask | Django | Laravel |
-|---------|-------|--------|---------|
-|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|
-
-### OS: ❤️ (linux one love)
-
-| Linux | Ubuntu | Windows |
-|-------|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux" alt="Windows" width="55" height="55"/> |
-
-### Development tools:
-| Git | GitHub | VS Code | Jupyter | Office 365 | Latex | Photoshop | Illustrator |
-|-----|--------|---------|---------|------------|-------|-----------|-------------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/github-mark-white_ozjbrg.png" title="GitHub" alt="GitHub" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717313305/Microsoft_365__2022_.svg_lfzbte.png" title="office365" alt="office365" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/LaTeX_project_logo_bird.svg_wgfx2h.png" title="Latex" alt="Latex" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="55" height="55"/>|
-
-<!--
-
-### It's not technology, but I use it. The section will be changed soon.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
---> 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Animated Banner"/>
 </div>
 
----
+<div align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=900&size=23&duration=3000&pause=500&color=4593f6&background=0D101700&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Passionate+Web+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%9A%80" alt="Typing SVG Banner" />
+</a>
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=rohitprofc&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rohitprofc&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitprofc&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitprofc&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<h2 align="center">
+  Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="35" alt="Handshake"/>
+</h2>
+
+<p align="center">
+  Hey! 👋 Welcome to my GitHub! 🚀 Let’s connect—find me here:
+  <br><br>
+  <a href="https://www.linkedin.com/in/rohitprofc" target="_blank"><img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/linkedin.com.png?raw=true" width="45" alt="LinkedIn" /></a>
+  <a href="https://www.x.com/@rohitprofc" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/twitter-x.svg" width="45" alt="X" /></a>
+  <a href="https://t.me/arke_286" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="45" alt="Telegram" /></a>
+  <a href="https://wa.me/919494214912" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/whatsapp.svg" width="45" alt="Whatsapp" /></a>
+  <!-- <a href="https://www.youtube.com/@rohitprofc" target="_blank"><img src="https://raw.githubusercontent.com/matomo-org/matomo-icons/67a3cce1c1d8847a48a2a91496e4b9404addf899/src/socials/youtube.com.svg" width="51" alt="YouTube" /></a> -->
+</p>
+
+<h4 align="center"> 📩 Get in touch: <a href="mailto:rohitprofc@gmail.com">rohitprofc@gmail.com</a> </h4>
+
+<p align="center">
+  <img width="200" src="https://komarev.com/ghpvc/?username=rohitprofc&&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### How to reach me :mailbox:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitprofc/) 
+<h2 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45" alt="Stats Icon" />
+  GitHub Stats
+</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitprofc&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitprofc&theme=github_dark" alt="Profile Details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitprofc&theme=github_dark" alt="Repos per Language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitprofc&theme=github_dark" alt="Most Commit Language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitprofc&theme=github_dark" alt="Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitprofc&theme=github_dark" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitprofc&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Separator"/>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="38" alt="Tech Icon" />
+  Languages, Tools, and Technologies
+</h2>
+
+<table align="center">
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" alt="programming" /></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,sass,js," alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Lib/Frameworks</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=jquery,react,angular" alt="frontendlib" /></td>
+  </tr>
+  <tr>
+    <td><strong>CSS Frameworks</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="css" /></td>
+  </tr>
+  <tr>
+    <td><strong>UI Development</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,ai,figma" alt="ui" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,flask,django,laravel" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongo" alt="databases" /></td>
+  </tr>
+  <tr>
+    <td><strong>Cloud Tools</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=azure,aws" alt="cloud" /></td>
+  </tr>
+  <tr>
+    <td><strong>OS: ❤️(linux one love)</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=linux,windows" alt="os" /></td>
+  </tr>
+  <tr>
+    <td><strong>Development Tools</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=bash,git,github,githubactions,vscode,docker,kubernetes,latex&theme=dark" alt="devtools" /></td>
+  </tr>
+</table>
+
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h2 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h2>
+<div align="center" style="max-width: 600px; margin: auto;">
+  <h3 style="text-align: left; font-size: 16px;">
+    🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
+    <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+    <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />
+  </div>
+</div>
+
+
+[![An image of @rohitprofc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitprofc)](https://holopin.io/@rohitprofc) -->
+
+<div align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=900&size=23&duration=3000&pause=500&color=4593f6&background=0D101700&center=true&vCenter=true&width=435&lines=Let's+code+together!" alt="Typing SVG Banner" />
+  </a>
+</div>
+
