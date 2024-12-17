@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td><strong>Development Tools</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=bash,git,github,githubactions,vscode,docker,kubernetes,latex&theme=dark" alt="devtools" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=bash,git,github,githubactions,vscode,docker&theme=dark" alt="devtools" /></td>
   </tr>
 </table>
 
