@@ -131,9 +131,7 @@
 
 [![An image of @rohitprofc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitprofc)](https://holopin.io/@rohitprofc) -->
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=900&size=23&duration=3000&pause=500&color=4593f6&background=0D101700&center=true&vCenter=true&width=435&lines=Let's+code+together!" alt="Typing SVG Banner" />
-  </a>
-</div>
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/rohitprofc/" target="_blank">Let's Code Together!</a>
+</h1>
 
