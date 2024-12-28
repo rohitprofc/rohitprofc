@@ -6,9 +6,11 @@
 
 ![Animated Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+</div>
+
 ---
 
-<h1>🚀 Projects in Progress</h1>
+<h1 align="center">🚀 Projects in Progress</h1>
 <ul>
   <li>🌟 <a href="https://github.com/rohitprofc/edvice-app">Edvice App</a></li>
   <li>🗓️ <a href="https://github.com/rohitprofc/ai-appointment-app">AI Scheduling Appointment App</a></li>
@@ -17,7 +19,7 @@
 
 ---
 
-<h1>🤝 Connect with Me</h1>
+<h1 align="center">🤝 Connect with Me</h1>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/rohitprofc/" title="Visit my LinkedIn Profile">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profile" width="100" />
@@ -36,7 +38,7 @@
 
 ---
 
-<h1>💻 Technologies Stack</h1>
+<h1 align="center">💻 Technologies Stack</h1>
 <table align="center">
   <tr>
     <td>Programming Languages</td>
@@ -82,6 +84,7 @@
 
 ---
 
+<div align="center">
 <h1>📊 GitHub Stats</h1>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitprofc&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
@@ -92,7 +95,11 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitprofc&theme=github_dark)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitprofc&theme=github_dark)
 
+</div>
+
 ---
+
+<div align="center">
 
 <h1>🏆 GitHub Trophies</h1>
 
@@ -110,9 +117,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animated Banner" />
 
+</div>
+
 ---
 
 <h1 align="center">✨ Let’s Build Together!</h1>
 <p align="center">Feel free to reach out or explore my work!</p>
-
-</div>
