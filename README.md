@@ -9,7 +9,7 @@
 ---
 
 <h1>🚀 Projects in Progress</h1>
-<ul style="list-style: none; text-align: left; display: inline-block;">
+<ul>
   <li>🌟 <a href="https://github.com/rohitprofc/edvice-app">Edvice App</a></li>
   <li>🗓️ <a href="https://github.com/rohitprofc/ai-appointment-app">AI Scheduling Appointment App</a></li>
   <li>🧪 <a href="https://github.com/rohitprofc/virtual-labs">Virtual Labs Simulator</a></li>
