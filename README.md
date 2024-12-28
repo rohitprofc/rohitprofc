@@ -1,7 +1,3 @@
-<style>
-  scroll-beaviour:smooth;
-</style>
-
 <div align="center" style="font-size:4rem; font-weight:600">
   <span> Namaste! I'm
   <a href="https://www.linkedin.com/in/rohitprofc/" target="_blank">Rohit</a>  </span> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70"/>
@@ -45,14 +41,11 @@
   <div style="display:grid;">
   <div style="display:flex; justify-content:center">
   <a href="https://www.linkedin.com/in/rohitprofc" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150" alt="LinkedIn" /></a>
-  <a href="mailto:rohitprofc@gmail.com" target="_blank"><img src=" https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150" alt="Mail" /></a>
-  <a href="https://www.x.com/@rohitprofc" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUxNTUzMzgsIm5iZiI6MTczNTE1NTAzOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI1VDE5MzAzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwNjgwOGQ5NDUzOTgxN2Y1YjhjMjY0NzAzMDI1YTg0OGQyZjAzZDU2ZmFlOWZiN2ZiOTBmY2VlZWIwNWE0MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cy-kj500Pt8nDtR3UjrgiJzwVz27hhivZpnZFZvtzcA" width="150" alt="X" /></a>
-  <a href="https://t.me/arke_286" target="_blank"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" style="margin-top:1.6rem" width="110" alt="Telegram" /></a>
+  <a href="mailto:rohitprofc@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150" alt="Mail" /></a>
   <a href="https://wa.me/919494214912" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="150" alt="Whatsapp" /></a>
-  <!-- <a href="https://www.youtube.com/@rohitprofc" target="_blank"><img src="https://raw.githubusercontent.com/matomo-org/matomo-icons/67a3cce1c1d8847a48a2a91496e4b9404addf899/src/socials/youtube.com.svg" width="51" alt="YouTube" /></a> -->
   </div>
   <div>
-    <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUxNTUzMzgsIm5iZiI6MTczNTE1NTAzOCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI1VDE5MzAzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5ZWU5ZGQ3ZGRiYWExZWU4ZjEzMTA5ODhjZTU5YmM5NjY5MTgzMzM1YzA2ZTFkZTE5MDhlNGM3NTk0NWUyMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BtE6FVD0FH8ufv74474fXVTCwKQ978mmIlvoxLcADpE" width="800" alt="Animated Banner"/>
+    <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="800" alt="Animated Banner"/>
   </div>
   </div>
 </div>
