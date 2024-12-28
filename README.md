@@ -1,165 +1,118 @@
-<div align="center" style="font-size:4rem; font-weight:600">
-  <span> Namaste! I'm
-  <a href="https://www.linkedin.com/in/rohitprofc/" target="_blank">Rohit</a>  </span> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70"/>
-</div>
-
-<hr>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Banner"/>
-</div>
 
-<div align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=28&duration=3000&pause=500&color=4593f6&background=0D101700&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Passionate+Web+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%9A%80" alt="Typing SVG Banner" />
-</a>
-</div>
+# Hey! I'm [Rohit](https://www.linkedin.com/in/rohitprofc/) ☕
 
-<div align="center" style="font-size:4rem; font-weight:600" id="home">
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="70"/>
-  <span>
-  <a href="https://www.github.com/rohitprofc/">Projects</a> in progress </span>
-</div>
+[![Typing SVG Banner](https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=28&duration=3000&pause=500&color=4593f6&background=0D101700&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Passionate+Web+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<hr>
+![Animated Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<div style="font-size:2rem; font-weight:600;">
-<span><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="45"/><a href="https://github.com/rohitprofc/edvice-app" ">Edvice App</a></span>
-<br>
-<span><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="45"/><a href="https://github.com/rohitprofc/ai-appointment-app">AI Scheduling Appointment App</a></span>
+---
 
-<span><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="45"/><a href="https://github.com/rohitprofc/virtual-labs">Virtual Labs Simulator</a></span>
-</div>
+<h1>🚀 Projects in Progress</h1>
+<ul style="list-style: none; text-align: left; display: inline-block;">
+  <li>🌟 <a href="https://github.com/rohitprofc/edvice-app">Edvice App</a></li>
+  <li>🗓️ <a href="https://github.com/rohitprofc/ai-appointment-app">AI Scheduling Appointment App</a></li>
+  <li>🧪 <a href="https://github.com/rohitprofc/virtual-labs">Virtual Labs Simulator</a></li>
+</ul>
 
-<div align="center" style="font-size:4rem; font-weight:600"  id="c">
- <span>Connect with<a href="https://www.linkedin.com/in/rohitprofc/" target="_blank"> me</a> </span>   <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="70" alt="Handshake"/>
-</div>
+---
 
-<hr>
-
-<div align="center">
-  <div style="display:grid;">
-  <div style="display:flex; justify-content:center">
-  <a href="https://www.linkedin.com/in/rohitprofc" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150" alt="LinkedIn" /></a>
-  <a href="mailto:rohitprofc@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150" alt="Mail" /></a>
-  <a href="https://wa.me/919494214912" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="150" alt="Whatsapp" /></a>
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="800" alt="Animated Banner"/>
-  </div>
-  </div>
-</div>
-
-<div align="center" style="font-size:4rem; font-weight:600" id="github">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="75" alt="Stats Icon" /> <span> <a href="#github">GitHub</a> Stats</span> 
-</div>
-
-<hr>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitprofc&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+<h1>🤝 Connect with Me</h1>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/rohitprofc/" title="Visit my LinkedIn Profile">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profile" width="100" />
+  </a>
+  <a href="https://www.x.com/@rohitprofc" title="Follow me on Twitter">
+    <img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="Twitter" width="100" />
+  </a>
+  <a href="https://wa.me/919494214912" title="Chat with me on WhatsApp">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" width="100" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitprofc&theme=github_dark" alt="Profile Details" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitprofc&theme=github_dark" alt="Repos per Language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitprofc&theme=github_dark" alt="Most Commit Language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitprofc&theme=github_dark" alt="Stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitprofc&theme=github_dark" alt="Productive Time" />
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="Animated Banner" width="800" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Separator"/>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitprofc&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Separator"/>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-<p align="center">
-  <img width="200" src="https://komarev.com/ghpvc/?username=rohitprofc&&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
-<div align="center" style="font-size:4rem; font-weight:600;" id="stack">
-  <span>Technologies  <a href="#stack">Stack</a></span> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50" alt="Tech Icon" />
-</div>
-
-<hr>
-
+<h1>💻 Technologies Stack</h1>
 <table align="center">
   <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" alt="programming" /></td>
+    <td>Programming Languages</td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" alt="Programming Languages" /></td>
   </tr>
   <tr>
-    <td><strong>Frontend Development</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,sass,js," alt="frontend" /></td>
+    <td>Frontend Development</td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,sass,js" alt="Frontend Development" /></td>
   </tr>
   <tr>
-    <td><strong>Frontend Lib/Frameworks</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=jquery,react,angular" alt="frontendlib" /></td>
+    <td>Frontend Lib/Frameworks</td>
+    <td><img src="https://skillicons.dev/icons?i=jquery,react,angular" alt="Frontend Libraries" /></td>
   </tr>
   <tr>
-    <td><strong>CSS Frameworks</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="css" /></td>
+    <td>CSS Frameworks</td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="CSS Frameworks" /></td>
   </tr>
   <tr>
-    <td><strong>UI Development</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,ai,figma" alt="ui" /></td>
+    <td>UI Development</td>
+    <td><img src="https://skillicons.dev/icons?i=photoshop,ai,figma" alt="UI Development Tools" /></td>
   </tr>
   <tr>
-    <td><strong>Backend Development</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,flask,django,laravel" alt="backend" /></td>
+    <td>Backend Development</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,laravel" alt="Backend Development" /></td>
   </tr>
   <tr>
-    <td><strong>Databases</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongo" alt="databases" /></td>
+    <td>Databases</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongo" alt="Databases" /></td>
   </tr>
   <tr>
-    <td><strong>Cloud Tools</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=azure,aws" alt="cloud" /></td>
+    <td>Cloud Tools</td>
+    <td><img src="https://skillicons.dev/icons?i=azure,aws" alt="Cloud Tools" /></td>
   </tr>
   <tr>
-    <td><strong>OS: ❤️(linux one love)</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=linux,windows" alt="os" /></td>
+    <td>OS: ❤️ (Linux One Love)</td>
+    <td><img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems" /></td>
   </tr>
   <tr>
-    <td><strong>Development Tools</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=bash,git,github,githubactions,vscode,docker&theme=dark" alt="devtools" /></td>
+    <td>Dev Tools</td>
+    <td><img src="https://skillicons.dev/icons?i=bash,git,github,githubactions,vscode,docker&theme=dark" alt="Development Tools" /></td>
   </tr>
 </table>
 
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
-<h2 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
-  <h3 style="text-align: left; font-size: 16px;">
-    🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
-  </h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
-    <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
-    <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />
-  </div>
-</div>
+<h1>📊 GitHub Stats</h1>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitprofc&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
 
-[![An image of @rohitprofc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitprofc)](https://holopin.io/@rohitprofc)  -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitprofc&theme=github_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitprofc&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitprofc&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitprofc&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitprofc&theme=github_dark)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animated Banner"/>
-</div>
+---
 
-<div align="center" style="font-size:4rem; font-weight:600">
-  <a href="#c">Let's Code Together!</a>
+<h1>🏆 GitHub Trophies</h1>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Separator" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohitprofc&theme=darkhub&column=9&margin-w=11)
+
+<p align="center">
+  <img src="assets/github-snake.svg" alt="Snake animation" width="1000" />
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohitprofc&&style=for-the-badge&color=blueviolet)
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animated Banner" />
+
+---
+
+<h1 align="center">✨ Let’s Build Together!</h1>
+<p align="center">Feel free to reach out or explore my work!</p>
+
 </div>
