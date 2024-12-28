@@ -20,7 +20,7 @@
 ---
 
 <h1 align="center">🤝 Connect with Me</h1>
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;" align=center>
   <a href="https://www.linkedin.com/in/rohitprofc/" title="Visit my LinkedIn Profile">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profile" width="100" />
   </a>
