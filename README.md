@@ -11,7 +11,7 @@
 <hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
 
 <div align="center">
-  <h1>🚀 Projects in Progress</h1>
+  <h2>🚀 Projects in Progress</h2>
   <ul style="list-style: none; text-align: left; display: inline-block;">
     <li>🌟 <a href="https://github.com/rohitprofc/edvice-app">Edvice App</a></li>
     <li>🧪 <a href="https://github.com/rohitprofc/virtual-labs">Virtual Labs Simulator</a></li>
@@ -22,7 +22,7 @@
 <hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
 
 <div align="center">
-  <h1>🤝 Connect with Me</h1>
+  <h2>🤝 Connect with Me</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/rohitprofc/" title="Visit my LinkedIn Profile">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profile GIF of Rohit" width="100" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
@@ -41,7 +41,7 @@
 <hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
 
 <div align="center">
-  <h1>💻 Technologies Stack</h1>
+  <h2>💻 Technologies Stack</h2>
   <table align="center">
     <tr>
       <td>Programming Languages</td>
@@ -89,7 +89,7 @@
 <hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
 
 <div align="center">
-  <h1>📊 GitHub Stats</h1>
+  <h2>📊 GitHub Stats</h2>
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitprofc&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
 
@@ -103,7 +103,7 @@
 <hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
 
 <div align="center">
-  <h1>🏆 GitHub Trophies</h1>
+  <h2>🏆 GitHub Trophies</h2>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Separator" />
 
@@ -122,5 +122,5 @@
 
 <hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
 
-<h1 align="center">✨ Let’s Build Together!</h1>
+<h2 align="center">✨ Let’s Build Together!</h2>
 <p align="center">Feel free to reach out or explore my work!</p>
