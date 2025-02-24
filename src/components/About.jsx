@@ -1,23 +1,30 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
+import Header from './Header';
+import Footer from './Footer';
 
 const About = () => {
-  const copyEmail = () => {
-    navigator.clipboard.writeText('rohitprofc@gmail.com')
-      .then(() => {
-        alert('Email Copied!');
-      })
-      .catch((err) => {
-        console.error('Failed to copy email: ', err);
-      });
+  const [emailText, setEmailText] = useState("rohitprofc@gmail.com");
+
+  const handleCopyEmail = async () => {
+    try {
+      await navigator.clipboard.writeText("rohitprofc@gmail.com");
+      setEmailText("Email Copied");
+      setTimeout(() => {
+        setEmailText("rohitprofc@gmail.com");
+      }, 2000);
+    } catch (err) {
+      console.error("Failed to copy: ", err);
+    }
   };
 
   return (
-    <>
-      <div className="header slide">
-        <a href="/" className="logo">Rohit Kavuluri</a>
-        <a href="/">Work</a>
-      </div>
+    <div>
+      {/* Header */}
+      <Header navLinks={[{ to: '/', label: 'Work' }]} />
 
+
+      {/* About Content */}
       <div className="about-page slide delay01">
         <div className="about">
           <h2>
@@ -34,6 +41,7 @@ const About = () => {
           </p>
         </div>
 
+        {/* Work, Education & Disciplines */}
         <div className="about">
           <h4>Work Experiences</h4>
           <div className="multi-row-grid">
@@ -70,15 +78,23 @@ const About = () => {
             Feel free to reach out for projects, collaborations, or just to say hello! Currently seeking new opportunities.
           </p>
           <div className="multi-row contact-options">
-            <a onClick={copyEmail} style={{ cursor: 'pointer' }}>rohitprofc@gmail.com</a>
-            <a href="https://www.linkedin.com/in/rohitprofc/" target="_blank" rel="noreferrer">LinkedIn</a>
-            <a href="https://www.github.com/rohitprofc/" target="_blank" rel="noreferrer">GitHub</a>
+            <a
+              id="copyemail"
+              data-clipboard-text="rohitprofc@gmail.com"
+              onClick={handleCopyEmail}
+              style={{ cursor: 'pointer' }}
+            >
+              {emailText}
+            </a>
+            <a href="https://www.linkedin.com/in/rohitprofc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://www.github.com/rohitprofc/" target="_blank" rel="noopener noreferrer">GitHub</a>
           </div>
         </div>
       </div>
 
-      <footer className="slide delay02">© rohitprofc 2025</footer>
-    </>
+      {/* Footer */}
+      <Footer />
+    </div>
   );
 };
 
