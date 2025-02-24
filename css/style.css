@@ -773,3 +773,27 @@ video {
 	}
 
 }
+
+/* src/components/Header.css */
+
+/* Default header styling (for desktop and larger screens) */
+.blur-nav {
+	padding: 20px 40px;
+	/* No background or blur effect by default */
+  }
+  
+  /* Apply glass blur effect only on mobile & tablet screens */
+  @media (max-width: 1024px) {
+	.blur-nav {
+	  background: rgba(255, 255, 255, 0.7); /* Semi-transparent background */
+	  backdrop-filter: blur(6px);          /* Blur effect */
+	  -webkit-backdrop-filter: blur(6px);  /* Safari support */
+	}
+  }
+  
+  /* Additional navigation link styling */
+  .blur-nav nav a {
+	margin-left: 20px;
+	font-weight: 500;
+  }
+  
