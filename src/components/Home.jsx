@@ -34,7 +34,7 @@ const Home = () => {
       <div className="about-me slide delay03">
         <div className="description">
           <p>
-            I'm Rohit Kavuluri, a Full Stack Web Developer with a versatile skill set and a passion for crafting seamless digital experiences. I have expertise in UI/UX design, backend development, and Python web applications. I specialize in creating responsive, aesthetic web interfaces that align with business goals and user expectations. My journey has led me through diverse projects, from front-end elegance to robust backend solutions, and I thrive on tackling challenges in the ever-evolving tech landscape.
+            I'm Rohit Kavuluri, a Full Stack Engineer with a versatile skill set and a passion for crafting seamless digital experiences. I have expertise in UI/UX design, backend development, and Python web applications. I specialize in creating responsive, aesthetic web interfaces that align with business goals and user expectations. My journey has led me through diverse projects, from front-end elegance to robust backend solutions, and I thrive on tackling challenges in the ever-evolving tech landscape.
           </p>
           <Link to="/about">More about me</Link>
         </div>

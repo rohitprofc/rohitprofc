@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import Header from './Header';
 import Footer from './Footer';
 
@@ -28,10 +27,10 @@ const About = () => {
       <div className="about-page slide delay01">
         <div className="about">
           <h2>
-            Full Stack Web Developer specializing in responsive design and seamless user experiences.
+            Full Stack Engineer specializing in responsive design and seamless user experiences.
           </h2>
           <p className="text">
-            I'm Rohit, a dedicated Full Stack Web Developer with a passion for crafting intuitive digital solutions. With expertise spanning UI/UX, frontend elegance, and robust backend systems, I bring a holistic approach to web development. My experience in dynamic projects, from responsive landing pages to complex intranet sites, has honed my ability to optimize user experiences and align them with business objectives.
+            I'm Rohit, a dedicated Full Stack Engineer with a passion for crafting intuitive digital solutions. With expertise spanning UI/UX, frontend elegance, and robust backend systems, I bring a holistic approach to web development. My experience in dynamic projects, from responsive landing pages to complex intranet sites, has honed my ability to optimize user experiences and align them with business objectives.
           </p>
           <p className="text">
             In previous roles, I have driven key initiatives that enhanced user engagement and streamlined workflows. I excel in managing comprehensive web development projects, from strategic planning and coding to collaboration across teams. With a solid foundation in modern development frameworks and a keen eye for detail, I leverage diverse tools and methodologies to deliver impactful results.
@@ -44,33 +43,64 @@ const About = () => {
         {/* Work, Education & Disciplines */}
         <div className="about">
           <h4>Work Experiences</h4>
-          <div className="multi-row-grid">
+          {/* <div className="multi-row-grid">
             <div className="multi-row">
-              <p className="title">Full Stack Developer</p>
+              <p className="title">Full Stack Engineer</p>
+              <p className="entity">TSS</p>
+              <p className="years">2025</p>
+            </div>
+          </div> */}
+          {/* <div className="multi-row-grid">
+            <div className="multi-row">
+              <p className="title">Freelance Front-End Engineer</p>
               <p className="entity">Studio Interlace</p>
               <p className="years">2024</p>
+            </div>
+          </div>
+          <div className="multi-row-grid">
+            <div className="multi-row">
+              <p className="title">Freelance Front-End Engineer</p>
+              <p className="entity">Nuway Interiors</p>
+              <p className="years">2023</p>
+            </div>
+          </div> */}
+          <div className="multi-row-grid">
+            <div className="multi-row">
+              <p className="title">Full Stack Engineer</p>
+              <p className="entity">Freelance</p>
+              <p className="years">2023 - Present</p>
             </div>
           </div>
 
           <h4>Education</h4>
           <div className="multi-row">
-            <p className="title">Bachelor's Degree</p>
+            <p className="title">Bachelor of Technology</p>
             <p className="entity">Artificial Intelligence and Data Science in Computer Science Engineering</p>
             <p className="years">2021 – 2025</p>
           </div>
 
           <div className="multi-row">
-            <p className="title">High School</p>
-            <p className="entity">Mathematics, Physics, Chemistry</p>
+            <p className="title">Higher Secondary Education</p>
+            <p className="entity">Advanced Studies in Calculus, Statistical Modeling, Applied Physics, and Chemistry</p>
             <p className="years">2019 – 2021</p>
+          </div>
+
+          <div className="multi-row">
+            <p className="title">High School</p>
+            <p className="entity">Languages, Computer Science, Mathematics and Sciences</p>
+            <p className="years">2014 – 2019</p>
           </div>
 
           <h4>Disciplines</h4>
           <div className="multi-row-grid">
-            <p>End-to-end Product Design</p>
-            <p>Interface Design</p>
-            <p>User Experience Design</p>
-            <p>Front-End</p>
+          <p>Software Engineering</p>
+          <p>AI/Machine Learning</p> 
+          <p>Front-End Development</p>
+          <p>Back-End Development</p> 
+          <p>User Experience (UX) Design</p>
+          <p>Interface (UI) Design</p>
+          <p>Data Systems Engineering</p>
+          <p>Cloud Infrastructure Management</p>
           </div>
 
           <h4>Contact</h4>
