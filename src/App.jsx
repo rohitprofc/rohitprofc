@@ -1,9 +1,8 @@
-import React from 'react';
-import { useEffect } from 'react';
-import { HashRouter, Routes, Route } from 'react-router-dom';
+import React, { Suspense, useEffect } from 'react';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';
 import Home from './components/Home';
-import About from './components/About';
+const About = React.lazy(() => import('./components/About'));
 
 const ScrollToTop = () => {
   const { pathname } = useLocation();
@@ -17,13 +16,17 @@ const ScrollToTop = () => {
 
 const App = () => {
   return (
-    <HashRouter>
-        <ScrollToTop/>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-      </Routes>
-    </HashRouter>
+    <BrowserRouter>
+      <ScrollToTop />
+      <Suspense fallback={null}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          {/* Fallback to home for unknown routes */}
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </Suspense>
+    </BrowserRouter>
   );
 };
 

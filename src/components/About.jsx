@@ -27,97 +27,90 @@ const About = () => {
       <div className="about-page slide delay01">
         <div className="about">
           <h2>
-            Full Stack Engineer specializing in responsive design and seamless user experiences.
+            Software Development Engineer specializing in scalable applications and intelligent digital solutions.
           </h2>
           <p className="text">
-            I'm Rohit, a dedicated Full Stack Engineer with a passion for crafting intuitive digital solutions. With expertise spanning UI/UX, frontend elegance, and robust backend systems, I bring a holistic approach to web development. My experience in dynamic projects, from responsive landing pages to complex intranet sites, has honed my ability to optimize user experiences and align them with business objectives.
+            I’m Rohit, a dedicated Full Stack Engineer with expertise in Web Development & SEO, App Development, Artificial Intelligence, Machine Learning, and software consulting. My career has been defined by building responsive, user-centric applications and designing robust backend systems that empower businesses to grow. I thrive on solving complex challenges by blending technical precision with strategic business alignment.
           </p>
           <p className="text">
-            In previous roles, I have driven key initiatives that enhanced user engagement and streamlined workflows. I excel in managing comprehensive web development projects, from strategic planning and coding to collaboration across teams. With a solid foundation in modern development frameworks and a keen eye for detail, I leverage diverse tools and methodologies to deliver impactful results.
+            In my projects, I’ve driven initiatives that streamlined workflows, enhanced user engagement, and automated critical operations. From landing pages and enterprise applications to AI-powered systems, I’ve managed projects end-to-end—covering design, development, and deployment. With a foundation in modern frameworks and methodologies, I focus on delivering scalable, maintainable, and impactful results.
           </p>
           <p className="text">
-            My strength lies in building aesthetically pleasing, functional interfaces while fostering a collaborative environment that integrates design, development, and project management. I am committed to pushing the envelope in web development, delivering innovative solutions that meet user expectations and business goals.
+            My strength lies in combining aesthetic design, functional engineering, and business consulting to create solutions that drive tangible outcomes. I collaborate closely with teams and clients, ensuring that every solution not only meets technical requirements but also achieves business objectives. Above all, I am committed to delivering innovation that resonates with users and accelerates growth.
           </p>
         </div>
 
         {/* Work, Education & Disciplines */}
         <div className="about">
           <h4>Work Experiences</h4>
-          {/* <div className="multi-row-grid">
+          <div className="multi-row-grid">
             <div className="multi-row">
-              <p className="title">Full Stack Engineer</p>
-              <p className="entity">TSS</p>
+              <p className="title">Software Development Engineer</p>
+              <p className="entity">LinenGrass - Present</p>
               <p className="years">2025</p>
-            </div>
-          </div> */}
-          {/* <div className="multi-row-grid">
-            <div className="multi-row">
-              <p className="title">Freelance Front-End Engineer</p>
-              <p className="entity">Studio Interlace</p>
-              <p className="years">2024</p>
             </div>
           </div>
           <div className="multi-row-grid">
             <div className="multi-row">
-              <p className="title">Freelance Front-End Engineer</p>
-              <p className="entity">Nuway Interiors</p>
-              <p className="years">2023</p>
-            </div>
-          </div> */}
-          <div className="multi-row-grid">
-            <div className="multi-row">
-              <p className="title">Full Stack Engineer</p>
+              <p className="title">Designer and Director</p>
               <p className="entity">Freelance</p>
               <p className="years">2023 - Present</p>
             </div>
           </div>
 
           <h4>Education</h4>
+          {/* <div className="multi-row">
+            <p className="title">Master's Degree</p>
+            <p className="entity">Artificial Intelligence and Data Science</p>
+            <p className="years">xxxx – xxxx</p>
+          </div> */}
+
           <div className="multi-row">
             <p className="title">Bachelor of Technology</p>
-            <p className="entity">Artificial Intelligence and Data Science in Computer Science Engineering</p>
+            <p className="entity">Artificial Intelligence and Data Science</p>
             <p className="years">2021 – 2025</p>
           </div>
 
           <div className="multi-row">
             <p className="title">Higher Secondary Education</p>
-            <p className="entity">Advanced Studies in Calculus, Statistical Modeling, Applied Physics, and Chemistry</p>
+            <p className="entity">Calculus, Statistics, Physics & Chemistry</p>
             <p className="years">2019 – 2021</p>
           </div>
 
           <div className="multi-row">
             <p className="title">High School</p>
-            <p className="entity">Languages, Computer Science, Mathematics and Sciences</p>
+            <p className="entity">Mathematics and Sciences</p>
             <p className="years">2014 – 2019</p>
           </div>
 
           <h4>Disciplines</h4>
           <div className="multi-row-grid">
-          <p>Software Engineering</p>
-          <p>AI/Machine Learning</p> 
-          <p>Front-End Development</p>
-          <p>Back-End Development</p> 
-          <p>User Experience (UX) Design</p>
-          <p>Interface (UI) Design</p>
-          <p>Data Systems Engineering</p>
-          <p>Cloud Infrastructure Management</p>
+          <p>End-to-end Product Design</p>
+          <p>Interface Design</p> 
+          <p>User Experience Design</p>
+          <p>Design Systems</p> 
+          <p>Automations</p>
+          <p>AI & Machine Learning</p>
+          <p>Consulting</p>
+          <p>Full-Stack</p>
           </div>
 
           <h4>Contact</h4>
           <p>
-            Feel free to reach out for projects, collaborations, or just to say hello! Currently seeking new opportunities.
+            Feel free to reach out for projects, collaborations, or just to say hello!
+            {/* Feel free to reach out for projects, collaborations, or just to say hello! Currently seeking new opportunities. */}
           </p>
           <div className="multi-row contact-options">
             <a
               id="copyemail"
-              data-clipboard-text="rohitprofc@gmail.com"
+              data-clipboard-text="hey@rohitprofc.com"
               onClick={handleCopyEmail}
               style={{ cursor: 'pointer' }}
             >
               {emailText}
             </a>
             <a href="https://www.linkedin.com/in/rohitprofc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="https://www.github.com/rohitprofc/" target="_blank" rel="noopener noreferrer">GitHub</a>
+            {/* <a href="https://www.github.com/rohitprofc/" target="_blank" rel="noopener noreferrer">GitHub</a> */}
           </div>
         </div>
       </div>

@@ -4,14 +4,14 @@ import Header from './Header';
 import Footer from './Footer';
 
 const Home = () => {
-  const [emailText, setEmailText] = useState("rohitprofc@gmail.com");
+  const [emailText, setEmailText] = useState("hey@rohitprofc.com");
 
   const handleCopyEmail = async () => {
     try {
-      await navigator.clipboard.writeText("rohitprofc@gmail.com");
+      await navigator.clipboard.writeText("hey@rohitprofc.com");
       setEmailText("Email Copied");
       setTimeout(() => {
-        setEmailText("rohitprofc@gmail.com");
+        setEmailText("hey@rohitprofc.com");
       }, 2000);
     } catch (err) {
       console.error("Failed to copy: ", err);
@@ -26,7 +26,7 @@ const Home = () => {
       {/* Hero Section */}
       <div className="hero">
         <h1 className="slide delay01">
-          Web Development. Machine Learning. Data Science. AI. & More
+          Product Design. Interfaces. Systems. Strategy. UX. & More
         </h1>
       </div>
 
@@ -34,7 +34,7 @@ const Home = () => {
       <div className="about-me slide delay03">
         <div className="description">
           <p>
-            I'm Rohit Kavuluri, a Full Stack Engineer with a versatile skill set and a passion for crafting seamless digital experiences. I have expertise in UI/UX design, backend development, and Python web applications. I specialize in creating responsive, aesthetic web interfaces that align with business goals and user expectations. My journey has led me through diverse projects, from front-end elegance to robust backend solutions, and I thrive on tackling challenges in the ever-evolving tech landscape.
+            I’m Rohit Kavuluri, a Software Development Engineer specializing in Web Development, SEO, App Development, and AI-driven solutions. With expertise across UI/UX, backend systems, and intelligent automations, I craft scalable applications that align business goals with user needs. My work spans front-end precision, backend robustness, and data-driven intelligence, enabling me to deliver seamless digital solutions that create measurable impact in the evolving technology landscape.
           </p>
           <Link to="/about">More about me</Link>
         </div>
