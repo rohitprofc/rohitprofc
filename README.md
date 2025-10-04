@@ -1,47 +1,53 @@
-<div align="center">
-
-# Hey! I'm [Rohit](https://www.linkedin.com/in/rohitprofc/) ☕
-
-[![Typing SVG Banner](https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=28&duration=3000&pause=500&color=4593f6&background=0D101700&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Passionate+Web+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-![Animated Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-</div>
-
-<hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
-
-<div align="center">
-  <h2>🚀 Projects in Progress</h2>
-  <ul style="list-style: none; text-align: left; display: inline-block;">
-    <li>🌟 <a href="https://github.com/rohitprofc/edvice-app">Edvice App</a></li>
-    <li>🧪 <a href="https://github.com/rohitprofc/virtual-labs">Virtual Labs Simulator</a></li>
-    <li>🗓️ <a href="https://github.com/rohitprofc/ai-appointment-app">AI Scheduling Appointment App</a></li>
-  </ul>
-</div>
-
-<hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
-
-<div align="center">
-  <h2>🤝 Connect with Me</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/in/rohitprofc/" title="Visit my LinkedIn Profile">
-      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profile GIF of Rohit" width="100" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-    <a href="https://www.x.com/@rohitprofc" title="Follow me on Twitter">
-      <img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="Twitter Profile GIF of Rohit" width="100" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-    <a href="https://wa.me/919494214912" title="Chat with me on WhatsApp">
-      <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp Chat Link of Rohit" width="100" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
+<div align="center" style="padding: 48px 24px; background: rgba(148, 163, 184, 0.04); border: 1px solid rgba(148, 163, 184, 0.16); border-radius: 32px; box-shadow: none; max-width: 960px; margin: 0 auto 32px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Abstract wave animation" width="220" style="border-radius: 24px; box-shadow: none; margin-bottom: 24px;" />
+  <h1 style="font-family: 'Outfit', 'Inter', 'Segoe UI', sans-serif; font-size: 44px; margin: 0;">Hey, I'm <a href="https://www.linkedin.com/in/rohitprofc/" style="color: inherit; text-decoration: none; border-bottom: 3px solid rgba(56, 189, 248, 0.5); padding-bottom: 4px;">Rohit</a> 👋</h1>
+  <p style="font-family: 'Inter', 'Segoe UI', sans-serif; font-size: 18px; line-height: 1.6; max-width: 640px; margin: 18px auto 0;">
+    Product designer turned full-stack engineer crafting human-friendly digital products. I build thoughtfully engineered experiences across web, data, and AI—finding the sweet spot between delightful design and robust systems.
+  </p>
+  <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 28px;">
+    <a href="mailto:rohitprofc@gmail.com" style="font-family: 'Inter', sans-serif; padding: 12px 28px; background: #111827; color: #ffffff; border-radius: 999px; text-decoration: none; font-weight: 600; transition: transform 0.3s ease, opacity 0.3s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.opacity='0.9';" onmouseout="this.style.transform='translateY(0)'; this.style.opacity='1';">Collaborate</a>
+    <a href="https://cal.com/rohitprofc/coffee" style="font-family: 'Inter', sans-serif; padding: 12px 26px; border: 1px solid rgba(148, 163, 184, 0.3); border-radius: 999px; text-decoration: none; font-weight: 600; background: transparent; color: inherit; transition: transform 0.3s ease, border 0.3s ease, background 0.3s ease;" onmouseover="this.style.transform='translateY(-4px)'; this.style.border='1px solid rgba(148, 163, 184, 0.5)'; this.style.background='rgba(148, 163, 184, 0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.border='1px solid rgba(148, 163, 184, 0.3)'; this.style.background='transparent';">Grab a virtual coffee</a>
   </div>
-
-  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="Animated Banner" style="max-width: 100%; height: auto; margin-top: 20px;" />
 </div>
 
-<hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
+<div align="center" style="max-width: 960px; margin: 0 auto; padding: 0 12px 48px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&repeat=true&width=540&lines=Designing+calm+interfaces+%26+handing+them+pixel-perfect.;Architecting+cloud-native+systems+with+clarity.;Shipping+AI-driven+automation+that+feels+effortless." alt="Dynamic headline" />
+</div>
 
-<div align="center">
-  <h2>💻 Technologies Stack</h2>
+<div style="max-width: 960px; margin: 0 auto; padding: 0 12px;">
+  <div style="display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
+    <div style="background: rgba(148, 163, 184, 0.04); border-radius: 24px; padding: 28px; border: 1px solid rgba(148, 163, 184, 0.18); box-shadow: none;">
+      <h3 style="margin: 0 0 12px; font-family: 'Inter', sans-serif;">Edvice App</h3>
+      <p style="margin: 0 0 16px; font-family: 'Inter', sans-serif; line-height: 1.6;">A peer-to-peer mentorship platform helping students match with industry experts via AI-guided discovery and scheduling.</p>
+      <a href="https://github.com/rohitprofc/edvice-app" style="font-family: 'Inter', sans-serif; font-weight: 600; color: inherit; text-decoration: underline; text-decoration-color: rgba(148, 163, 184, 0.5); text-underline-offset: 4px;">Explore ↗</a>
+    </div>
+    <div style="background: rgba(148, 163, 184, 0.04); border-radius: 24px; padding: 28px; border: 1px solid rgba(148, 163, 184, 0.18); box-shadow: none;">
+      <h3 style="margin: 0 0 12px; font-family: 'Inter', sans-serif;">Virtual Labs Simulator</h3>
+      <p style="margin: 0 0 16px; font-family: 'Inter', sans-serif; line-height: 1.6;">Immersive lab experiments rendered in-browser with analytics dashboards for educators and real-time collaboration features.</p>
+      <a href="https://github.com/rohitprofc/virtual-labs" style="font-family: 'Inter', sans-serif; font-weight: 600; color: inherit; text-decoration: underline; text-decoration-color: rgba(148, 163, 184, 0.5); text-underline-offset: 4px;">Explore ↗</a>
+    </div>
+    <div style="background: rgba(148, 163, 184, 0.04); border-radius: 24px; padding: 28px; border: 1px solid rgba(148, 163, 184, 0.18); box-shadow: none;">
+      <h3 style="margin: 0 0 12px; font-family: 'Inter', sans-serif;">AI Appointment App</h3>
+      <p style="margin: 0 0 16px; font-family: 'Inter', sans-serif; line-height: 1.6;">An AI-first scheduling assistant that syncs calendars, predicts availability, and crafts natural confirmations automatically.</p>
+      <a href="https://github.com/rohitprofc/ai-appointment-app" style="font-family: 'Inter', sans-serif; font-weight: 600; color: inherit; text-decoration: underline; text-decoration-color: rgba(148, 163, 184, 0.5); text-underline-offset: 4px;">Explore ↗</a>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 960px; margin: 48px auto 0; padding: 40px 24px; background: rgba(148, 163, 184, 0.04); border-radius: 28px; border: 1px solid rgba(148, 163, 184, 0.18); box-shadow: none;">
+  <h2 style="font-family: 'Inter', sans-serif; margin: 0 0 18px;">Ways to connect</h2>
+  <p style="font-family: 'Inter', sans-serif; margin: 0 0 24px;">Delighted to jam on product strategy, design systems, or data storytelling. Quick intros always welcome.</p>
+  <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+    <a href="https://www.linkedin.com/in/rohitprofc/" title="LinkedIn" style="border-radius: 22px; padding: 10px 18px; border: 1px solid rgba(148, 163, 184, 0.25); display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-family: 'Inter', sans-serif; font-weight: 600; background: transparent; color: inherit;">💼 LinkedIn</a>
+    <a href="https://www.x.com/@rohitprofc" title="X (Twitter)" style="border-radius: 22px; padding: 10px 18px; border: 1px solid rgba(148, 163, 184, 0.25); display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-family: 'Inter', sans-serif; font-weight: 600; background: transparent; color: inherit;">🪄 X / Twitter</a>
+    <a href="https://wa.me/919494214912" title="WhatsApp" style="border-radius: 22px; padding: 10px 18px; border: 1px solid rgba(148, 163, 184, 0.25); display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-family: 'Inter', sans-serif; font-weight: 600; background: transparent; color: inherit;">💬 WhatsApp</a>
+    <a href="https://drive.google.com/file/d/1xkT60v8z2Cv6moM6bJb5AGKkN9Cylkic/view" title="Portfolio" style="border-radius: 22px; padding: 10px 18px; border: 1px solid rgba(148, 163, 184, 0.25); display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-family: 'Inter', sans-serif; font-weight: 600; background: transparent; color: inherit;">📁 Portfolio</a>
+  </div>
+</div>
+
+<div align="center" style="max-width: 960px; margin: 48px auto 0;">
+  <h2 style="font-family: 'Inter', sans-serif; margin-bottom: 16px;">Signature toolkit</h2>
+  <p style="font-family: 'Inter', sans-serif; margin-bottom: 32px;">The cross-disciplinary stack I rely on to ship quietly excellent products.</p>
   <table align="center">
     <tr>
       <td>Programming Languages</td>
@@ -86,41 +92,19 @@
   </table>
 </div>
 
-<hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitprofc&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
-  
-  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitprofc&theme=github_dark)
-  ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitprofc&theme=github_dark)
-  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitprofc&theme=github_dark)
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitprofc&theme=github_dark)
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitprofc&theme=github_dark)
+<div align="center" style="max-width: 960px; margin: 60px auto; padding: 50px 32px; background: rgba(148, 163, 184, 0.04); border-radius: 32px; border: 1px solid rgba(148, 163, 184, 0.18); box-shadow: none;">
+  <h2 style="font-family: 'Inter', sans-serif; margin-bottom: 24px;">🏆 Community honors</h2>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Animated divider" style="margin-bottom: 24px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitprofc&theme=darkhub&column=9&margin-w=11" alt="GitHub trophies" />
+  <div style="margin: 40px auto 0; max-width: 960px;">
+    <img src="./public/assets/github-snake.svg" alt="GitHub contribution snake" width="100%" style="border-radius: 18px;" />
+  </div>
+  <div style="margin-top: 36px; display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+    <img src="https://komarev.com/ghpvc/?username=rohitprofc&&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  </div>
 </div>
 
-<hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Separator" />
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohitprofc&theme=darkhub&column=9&margin-w=11)
-
-  <p align="center">
-    <img src="./public/assets/github-snake.svg" alt="Snake animation" width="1000" />
-  </p>
-
-  ---
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=rohitprofc&&style=for-the-badge&color=blueviolet)
-
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animated Banner" style="max-width: 100%; height: auto; margin-top: 20px;" />
+<div align="center" style="max-width: 720px; margin: 0 auto 48px; padding: 32px; background: rgba(148, 163, 184, 0.04); border: 1px solid rgba(148, 163, 184, 0.18); border-radius: 28px; box-shadow: none;">
+  <h2 style="font-family: 'Inter', sans-serif; margin-bottom: 12px;">✨ Let's build what feels inevitable.</h2>
+  <p style="font-family: 'Inter', sans-serif; margin: 0;">Drop a message, send a loom, or share a doc—I'm all in for the next ambitious collaboration.</p>
 </div>
-
-<hr style="border: none; border-top: 2px solid #4593f6; margin: 20px 0;" />
-
-<h2 align="center">✨ Let’s Build Together!</h2>
-<p align="center">Feel free to reach out or explore my work!</p>
